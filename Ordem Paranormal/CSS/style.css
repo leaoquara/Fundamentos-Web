@@ -1,0 +1,105 @@
+/*Styles Index*/
+
+.border{
+    
+}
+
+.center{
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container1{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titulo{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+.subtitulo{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+.texto{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin: 0px;
+    border: 0px;
+    padding: 20px;
+}
+
+.texto1{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0px;
+    border: 0px;
+    padding: 20px;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.tmsocial{
+    width: 50px;
+    height: 50px;
+}
+
+#menu li{
+    display: inline;
+    padding: 30px;
+
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#menu li a:hover{
+    color: blue;
+}
+/*
+*/
+
+/*
+*/
+
+/*
+*/
+
+/*
+*/
+
+/*
+*/
+
+/*
+*/
+
+/*
+*/
